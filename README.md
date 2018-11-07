@@ -7,12 +7,13 @@ For Example:
 solve_kenken(puzzle1) -> puzzle1soln
 
 Ken ken must be inputed in Puzzle structure:
+```
 class Puzzle:
     Fields:
             size: Nat 
             board: (listof (listof (anyof Str Nat Guess))
             constraints: (listof (list Str Nat (anyof '+' '-' '*' '/' '='))))
-    requires: See Assignment Specifications
+```
 
 Example: 
 ```
