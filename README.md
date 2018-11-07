@@ -32,5 +32,7 @@ puzzle1 = Puzzle(4, [['a','b','b','c'],
                   
 puzzle1soln=Puzzle(4, [[2,1,4,3],[3,2,1,4],[4,3,2,1],[1,4,3,2]], [])
 
+
 Explaination in progress....
+
 Main python file to improve readability in progress....
