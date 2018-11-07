@@ -15,6 +15,7 @@ class Puzzle:
     requires: See Assignment Specifications
 
 Example: 
+'''
 puzzle1 = Puzzle(4, [['a','b','b','c'],
                      ['a','d','e','e'],
                      ['f','d','g','g'],
@@ -29,9 +30,9 @@ puzzle1 = Puzzle(4, [['a','b','b','c'],
                   ['h',4,'='],
                   ['i',1,'-']])
                   
-                  
+# A solved puzzle:                  
 puzzle1soln=Puzzle(4, [[2,1,4,3],[3,2,1,4],[4,3,2,1],[1,4,3,2]], [])
-
+'''
 
 Explaination in progress....
 
