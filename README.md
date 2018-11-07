@@ -3,9 +3,9 @@ Python program to solve Ken Ken puzzles
 
 
 For Example:
-
+```
 solve_kenken(puzzle1) -> puzzle1soln
-
+```
 Ken ken must be inputed in Puzzle structure:
 ```
 class Puzzle:
